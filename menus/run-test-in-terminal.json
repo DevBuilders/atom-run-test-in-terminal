@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Run Test in Terminal",
+        "command": "run-test-in-terminal:run-test"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "run-test-in-terminal",
+          "submenu": [
+            {
+              "label": "Run Test in Terminal",
+              "command": "run-test-in-terminal:run-test"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
