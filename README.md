@@ -1,5 +1,4 @@
 # run-test-in-terminal package
 
-A short description of your package.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Runs the test currently open in the active editor in a terminal view. Test Runner defaults to rspec.
+Depends on [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal).
