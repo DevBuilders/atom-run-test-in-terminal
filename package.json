@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "run-test-in-terminal:run-test"
   },
-  "repository": "https://github.com/atom/run-test-in-terminal",
+  "repository": "https://github.com/DevBuilders/atom-run-test-in-terminal",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
