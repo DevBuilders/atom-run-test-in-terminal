@@ -1,10 +1,9 @@
 {
   "name": "run-test-in-terminal",
   "main": "./lib/run-test-in-terminal",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationHooks": [
     "core:loaded-shell-environment"
   ],
@@ -16,8 +15,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "consumedServices": {
     "runInTerminal": {
       "versions": {
